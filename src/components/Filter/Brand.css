@@ -1,0 +1,13 @@
+input{
+text-decoration: none;
+outline: 0;
+box-shadow: 0 0 0 0rem !important;
+border-bottom: 1px solid grey;
+/* border-radius: 5% !important; */
+height: 30px;
+}
+input:focus{
+    text-decoration: none;
+    outline: 0;
+   border: none !important;
+}
