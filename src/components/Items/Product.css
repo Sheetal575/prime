@@ -1,0 +1,29 @@
+.gap {
+    margin: 1.5px;
+    /* width: fit-content; */
+    padding: 9px;
+    /* width: 22%; */
+  }
+
+  .row {
+    display: flex;
+  }
+.fs-6{
+    font-size: 0.7rem !important;
+}
+.fs-4{
+    font-size: 0.6rem !important;
+}
+.fs-8{
+    font-size: 0.8rem !important;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+.card{
+ cursor: pointer;
+}
+.cardHover:hover{
+    background-color: rgba(160, 158, 158, 0.377);
+}

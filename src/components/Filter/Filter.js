@@ -14,7 +14,7 @@ export default class Filter extends Component {
         return (
             <>
             <div className="container items" >
-                <div className="card border-0 shadow-sm">
+                <div className="card border-0 shadow-sm ">
                     <div className="col">
                         <div className="row-1 p-1 m-0 heading">
                                 <h6 className="text-muted align-middle m-1">Filter</h6>

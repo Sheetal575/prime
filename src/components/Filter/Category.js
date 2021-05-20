@@ -5,7 +5,7 @@ export default class Category extends Component {
         return (
             <>
             <div className="row text-muted align-middle  ">
-                <small className="fs-7 ms-2">CATEGORIES</small> 
+                <small className="fs-6 ms-1">CATEGORIES</small> 
             </div>
                             <div className="row p-0">
                                 <h6><small className="text-muted align-middle m-1 p-0 dropdown-toggle" data-bs-toggle="collapse" 
