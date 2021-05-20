@@ -58,7 +58,7 @@ export default class Product extends Component {
                     {
                       Products.map((product,index)=>{
                           return(
-                            <div className="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-0">
+                            <div className="col-lg-3 col-md-4 col-sm-6 col-xs-6 p-0">
                                    <div className="col card cardHover shadow-sm border-0 gap lh-sm" key={index}>
                                        <div className="row  p-0 my-2">
                                            {product.image}

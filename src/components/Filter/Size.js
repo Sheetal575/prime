@@ -5,7 +5,7 @@ export default class Size extends Component {
         return (
             <div>
                 <div className="row p-1">
-                <h6><small className="text-muted align-middle m-1 dropdown-toggle" data-bs-toggle="collapse" 
+                <h6><small className="text-muted align-middle m-1 dropdown-toggle fs-6" data-bs-toggle="collapse" 
                                        href="#collapseExample6" 
                                        role="button" 
                                        aria-expanded="false" aria-controls="collapseExample">
@@ -15,25 +15,25 @@ export default class Size extends Component {
                         <div class="checkbox p-0 m-0 align-middle ms-3">
                             <label className="align-middle text-muted fs-7 ">
                                  <input class="align-middle " type="checkbox" value="" />
-                                 <span className="ms-1">Small</span>
+                                 <span className="ms-1 fs-6">Small</span>
                             </label>
                         </div>     
                         <div class="checkbox p-0 m-0 align-middle ms-3">
                             <label className="align-middle text-muted fs-7">
                                 <input class="align-middle " type="checkbox" value="" />
-                                 <span className="ms-1">Medium</span>
+                                 <span className="ms-1 fs-6">Medium</span>
                             </label>
                         </div> 
                         <div class="  checkbox p-0 m-0 align-middle ms-3">
                              <label className="align-middle text-muted fs-7">
                                 <input class="align-middle" type="checkbox" value="" />
-                                <span className="ms-1">Large</span>
+                                <span className="ms-1 fs-6">Large</span>
                             </label>
                         </div> 
                         <div class="  checkbox p-0 m-0 align-middle ms-3">
                              <label className="align-middle text-muted fs-7">
                                 <input class="align-middle" type="checkbox" value="" />
-                                <span className="ms-1">x-large</span>
+                                <span className="ms-1 fs-6">x-large</span>
                             </label>
                         </div> 
                     </div>
