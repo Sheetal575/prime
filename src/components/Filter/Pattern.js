@@ -9,7 +9,7 @@ export default class Pattern extends Component {
                                        href="#collapseExample11" 
                                        role="button" 
                                        aria-expanded="false" aria-controls="collapseExample">
-                                           Pattern
+                                           PATTERN
                     </small></h6>
                     <div class="collapse" id="collapseExample11">
                         <div class="checkbox p-0 m-0 align-middle ms-3">
