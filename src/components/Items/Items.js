@@ -18,7 +18,7 @@ export default class Items extends Component {
     }
     render() {
         return (
-            <div className="col container-fluid p-2 px-3">
+            <div className="col container-fluid p-2 px-3 ">
                 <div className="row ps-2 m-0">
                     <h6 className="fs-5 fw-8">Men's Tshirt  
                         <small className="text-muted fs-19">

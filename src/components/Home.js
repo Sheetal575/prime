@@ -14,7 +14,7 @@ export default class Home extends Component {
                         </div>
                         <div className="col-xs-7 col-md-9 col-sm-8 col-lg-10
                         ">
-                            <Items className="overflow-scroll"/>
+                            <Items />
                         </div>
                     </div>
                 </div>
