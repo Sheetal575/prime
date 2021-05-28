@@ -1,0 +1,17 @@
+.gap {
+    /* margin: 5.5px !important; */
+    /* width: fit-content; */
+    padding: 9px;
+    /* width: 50%; */
+    /* width: 22%; */
+    width: 18%;
+  }
+  .fs-6{
+      font-size: 10px !important;
+  }
+  .bg{
+     background-color: rgba(105, 200, 223, 0.671) !important;
+  }
+  .cursor{
+      cursor: pointer;
+  }

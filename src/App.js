@@ -1,10 +1,11 @@
 
 import './App.css';
-import Home from './components/Home'
+import Main from './SellerComponent/Main';
+
 function App() {
   return (
-    <div className=" home overflow-hidden">
-     <Home />
+    <div className="container-fluid ">
+     <Main />
     </div>
   );
 }
